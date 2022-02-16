@@ -1,5 +1,5 @@
 # CSC-621-821-Team-Forest
-Final Project for Biomedical Imaging and Analyis\
+### Final Project for Biomedical Imaging and Analyis
 
 **Meetings**: Wednesdays 10AM-11AM\
 **Platform**: Mac primary\
