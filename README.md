@@ -11,8 +11,10 @@ Final Project for Biomedical Imaging and Analyis\
 Image Registration and Fusion in Regards to COVID-19 (tentative)
 
 ## Segmentation and Registration Algorithms:
-Group 1 (Islom, Mato): 3D edge-preserving smoothing followed by a threshold-based segmentation technique, 3D Watersheds segmentation and fusion method\
-Group 2 (Chris, Vincent): Landmark-based rigid registration with Iterative Closest Point algorithm with manual selection of correspondences using GUI, Intensity-based rigid registration with mutual information maximization\
+Group 1 (Islom, Mato): 
+<ul><li>3D edge-preserving smoothing followed by a threshold-based segmentation technique</li><li>3D Watersheds segmentation and fusion method</li>
+Group 2 (Chris, Vincent): 
+<ul><li>Landmark-based rigid registration with Iterative Closest Point algorithm with manual selection of correspondences using GUI</li><li>Intensity-based rigid registration with mutual information maximization</li>
 Group 3 (Alan, ): 
 
 ## Assignment Tasks:
