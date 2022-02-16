@@ -7,7 +7,7 @@ Programming Language: Python\
 Sharing Code: https://github.com/chrishuber/CSC-621-821-Team-Forest \
 Google Doc: https://docs.google.com/document/d/13YEpN-8FFQCv8p91aunfrw4BeilL3IX2WK9NQW4Pdug/edit \
 
-## Overall Goal:\
+## Overall Goal:
 Image Registration and Fusion in Regards to COVID-19 (tentative)\
 
 ## Segmentation and Registration Algorithms:
