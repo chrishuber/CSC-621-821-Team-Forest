@@ -4,7 +4,7 @@ Final Project for Biomedical Imaging and Analyis\
 Meetings: Wednesdays 10AM-11AM\
 Platform: Mac primary\
 Programming Language: Python\
-Sharing Code: https://github.com/chrishuber/CSC-621-821-Team-Forest\
+Sharing Code: https://github.com/chrishuber/CSC-621-821-Team-Forest \
 Google Doc: https://docs.google.com/document/d/13YEpN-8FFQCv8p91aunfrw4BeilL3IX2WK9NQW4Pdug/edit\
 
 ##Overall Goal:\
