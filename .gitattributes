@@ -1,0 +1,1 @@
+LIDC_IDRI_axial_01.nii filter=lfs diff=lfs merge=lfs -text
