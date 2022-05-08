@@ -1,3 +1,4 @@
 LIDC_IDRI_axial_01.nii filter=lfs diff=lfs merge=lfs -text
 2.000000-ROUTINE[[:space:]]CHEST[[:space:]]NON-CON-50599.nii filter=lfs diff=lfs merge=lfs -text
 3.000000-0.625mm[[:space:]]bone[[:space:]]alg-26970.nii filter=lfs diff=lfs merge=lfs -text
+821_registration_slides.pptx filter=lfs diff=lfs merge=lfs -text
